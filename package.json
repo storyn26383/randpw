@@ -1,6 +1,6 @@
 {
     "name": "randpw",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "A random password generator.",
     "author": "Sasaya <storyn26383@gmail.com>",
     "repository": "storyn26383/randpw",
