@@ -10,7 +10,7 @@ process.stdout.write(
     null,
     Array.apply(
       null,
-      { length }).map(n => Math.floor(Math.random() * (ASCII_END - ASCII_START) + 1) + ASCII_START
-    )
+      { length }
+    ).map(n => Math.floor(Math.random() * (ASCII_END - ASCII_START) + 1) + ASCII_START)
   ) + "\n"
 );
